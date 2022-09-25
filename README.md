@@ -1,2 +1,3 @@
 # advanced-weather-api
-<img width="969" alt="Screen Shot 2022-08-25 at 12 40 55 AM" src="https://user-images.githubusercontent.com/16097217/186530347-02f7797e-f5c8-4d5d-988b-e57ecac21d60.png">
+
+<img width="955" alt="Screen Shot 2022-09-25 at 3 31 38 PM" src="https://user-images.githubusercontent.com/16097217/192143642-cb2a56c0-7453-4d10-919d-3b5857e57166.png">
