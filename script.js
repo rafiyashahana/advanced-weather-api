@@ -187,10 +187,10 @@ const renderChart = (data) => {
       {
         type: "line",
         smooth: true,
-        lineStyle: { color: "#333" },
+        lineStyle: { color: "#112b50" },
         areaStyle: {
           opacity: 0.1,
-          color: "#808080",
+          color: "#6180b9",
         },
         data: data.map((item) => item.main.temp),
       },
